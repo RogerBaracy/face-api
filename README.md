@@ -1,4 +1,4 @@
-# Quasar App (tracking)
+# Quasar App (Face-api)
 
 A Quasar Framework app
 
